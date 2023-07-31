@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="httpgd" width="1920.00" height="1080.00" viewBox="0 0 1536.00 864.00">
+<defs>
+  <style type='text/css'><![CDATA[
+    .httpgd line, .httpgd polyline, .httpgd polygon, .httpgd path, .httpgd rect, .httpgd circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+<clipPath id="c0"><rect x="0.00" y="0.00" width="1536.00" height="864.00"/></clipPath>
+<clipPath id="c1"><rect x="41.11" y="5.48" width="1489.41" height="826.48"/></clipPath>
+<clipPath id="c2"><rect x="0.00" y="0.00" width="1536.00" height="864.00"/></clipPath>
+</defs>
+<rect width="100%" height="100%" style="stroke: none;fill: #FFFFFF;"/>
+<g clip-path="url(#c0)">
+<rect x="0.00" y="0.00" width="1536.00" height="864.00" style="stroke-width: 1.07;stroke: #FFFFFF;fill: #11111B;"/>
+</g><g clip-path="url(#c1)">
+<rect x="41.11" y="5.48" width="1489.41" height="826.48" style="stroke-width: 1.07;stroke: none;fill: #11111B;"/>
+<polyline points="108.81,472.13 117.49,439.72 126.17,428.76 134.85,430.13 143.53,390.42 152.21,404.11 160.89,447.02 169.57,417.35 178.25,399.55 186.92,406.85 195.60,277.67 204.28,142.56 212.96,130.69 221.64,159.45 230.32,187.75 239.00,206.92 247.68,200.07 256.36,290.91 265.04,346.60 273.72,373.99 282.40,408.68 291.08,420.55 299.76,479.43 308.44,470.76 317.12,422.83 325.80,436.98 334.48,453.87 343.16,481.26 351.84,522.34 360.52,581.22 369.20,565.70 377.88,559.31 386.55,574.83 395.23,538.77 403.91,541.06 412.59,535.58 421.27,512.30 429.95,487.65 438.63,439.26 447.31,422.83 455.99,453.87 464.67,515.04 473.35,514.12 482.03,519.14 490.71,541.06 499.39,619.11 508.07,607.70 516.75,632.35 525.43,589.90 534.11,592.64 542.79,637.37 551.47,669.78 560.15,693.97 568.83,697.62 577.51,671.15 586.18,670.24 594.86,676.17 603.54,648.78 612.22,678.45 620.90,711.78 629.58,686.21 638.26,637.83 646.94,647.87 655.62,637.83 664.30,625.96 672.98,585.33 681.66,601.77 690.34,639.20 699.02,656.54 707.70,654.26 716.38,629.15 725.06,656.54 733.74,641.94 742.42,648.78 751.10,671.15 759.78,695.34 768.46,645.59 777.13,646.04 785.81,646.96 794.49,630.98 803.17,605.87 811.85,591.27 820.53,623.22 829.21,618.20 837.89,607.24 846.57,585.33 855.25,592.18 863.93,624.13 872.61,629.15 881.29,640.11 889.97,630.98 898.65,628.24 907.33,652.43 916.01,691.69 924.69,730.03 933.37,754.68 942.05,794.40 950.73,761.53 959.41,709.04 968.09,626.42 976.76,565.25 985.44,578.03 994.12,576.66 1002.80,544.25 1011.48,571.64 1020.16,559.77 1028.84,569.36 1037.52,525.54 1046.20,440.18 1054.88,474.87 1063.56,448.39 1072.24,383.12 1080.92,353.45 1089.60,290.45 1098.28,270.37 1106.96,449.76 1115.64,505.45 1124.32,520.06 1133.00,550.18 1141.68,540.60 1150.36,568.90 1159.04,517.78 1167.71,488.10 1176.39,398.18 1185.07,444.74 1193.75,412.33 1202.43,439.72 1211.11,433.33 1219.79,340.67 1228.47,326.06 1237.15,305.97 1245.83,284.06 1254.51,357.10 1263.19,454.78 1271.87,480.35 1280.55,509.10 1289.23,499.97 1297.91,393.16 1306.59,372.62 1315.27,312.82 1323.95,309.17 1332.63,322.41 1341.31,200.53 1349.99,175.88 1358.67,214.22 1367.34,125.67 1376.02,134.80 1384.70,135.71 1393.38,193.23 1402.06,232.48 1410.74,194.14 1419.42,180.90 1428.10,179.07 1436.78,180.90 1445.46,174.97 1454.14,87.78 1462.82,43.05" style="stroke-width: 1.07;stroke: #89B4FA;stroke-linecap: butt;"/>
+</g><g clip-path="url(#c2)">
+<g><text x="36.18" y="714.46" text-anchor="end" style="font-family: Nimbus Sans;font-size: 8.80px;fill: #CDD6F4;" textLength="17.46px" lengthAdjust="spacingAndGlyphs">1.35</text></g>
+<g><text x="36.18" y="486.22" text-anchor="end" style="font-family: Nimbus Sans;font-size: 8.80px;fill: #CDD6F4;" textLength="17.46px" lengthAdjust="spacingAndGlyphs">1.40</text></g>
+<g><text x="36.18" y="257.99" text-anchor="end" style="font-family: Nimbus Sans;font-size: 8.80px;fill: #CDD6F4;" textLength="17.46px" lengthAdjust="spacingAndGlyphs">1.45</text></g>
+<g><text x="36.18" y="29.75" text-anchor="end" style="font-family: Nimbus Sans;font-size: 8.80px;fill: #CDD6F4;" textLength="17.46px" lengthAdjust="spacingAndGlyphs">1.50</text></g>
+<g><text x="111.29" y="843.17" text-anchor="middle" style="font-family: Nimbus Sans;font-size: 8.80px;fill: #CDD6F4;" textLength="20.13px" lengthAdjust="spacingAndGlyphs">2020</text></g>
+<g><text x="565.11" y="843.17" text-anchor="middle" style="font-family: Nimbus Sans;font-size: 8.80px;fill: #CDD6F4;" textLength="20.13px" lengthAdjust="spacingAndGlyphs">2021</text></g>
+<g><text x="1017.68" y="843.17" text-anchor="middle" style="font-family: Nimbus Sans;font-size: 8.80px;fill: #CDD6F4;" textLength="20.13px" lengthAdjust="spacingAndGlyphs">2022</text></g>
+<g><text x="1470.26" y="843.17" text-anchor="middle" style="font-family: Nimbus Sans;font-size: 8.80px;fill: #CDD6F4;" textLength="20.13px" lengthAdjust="spacingAndGlyphs">2023</text></g>
+<g><text x="785.81" y="855.88" text-anchor="middle" style="font-family: Nimbus Sans;font-size: 11.00px;fill: #CDD6F4;" textLength="24.37px" lengthAdjust="spacingAndGlyphs">Date</text></g>
+<g><text transform="translate(13.33,418.72) rotate(-90.00)" text-anchor="middle" style="font-family: Nimbus Sans;font-size: 11.00px;fill: #CDD6F4;" textLength="121.26px" lengthAdjust="spacingAndGlyphs">DKK/SEK Exchange rate</text></g>
+</g>
+</svg>
