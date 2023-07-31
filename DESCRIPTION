@@ -1,0 +1,11 @@
+Package: frankfurteR
+Title: Retrive exchange rates from frankfurter.app
+Version: 0.0.1
+Authors@R: 
+    person("Markus", "Ljungqvist", , "hello@mackrics.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Retrieve exchange rates from frankfurter.app. The package contains functions to get either the latest exchange rate or time-series data. frankfurter.app use exchange rate data from the European Central Bank (ECB).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
