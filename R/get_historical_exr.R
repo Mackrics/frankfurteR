@@ -8,6 +8,7 @@
 #' @param end_date end date of time-series
 #' @export get_historical_exr
 get_historical_exr <- function(from_currency, to_currency, start_date, end_date = Sys.Date()) {
+  rate <- rates <- NULL
   base <- "https://api.frankfurter.app/"
   from <- paste0("from=", from_currency)
   to <- paste0("to=", to_currency)
