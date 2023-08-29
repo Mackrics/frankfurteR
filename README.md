@@ -10,7 +10,7 @@ This package retrieve the exchange rate from the ECB via the
 You can install this package using the [pak package](https://pak.r-lib.org/):
 
 ```R
-pak::pkg_install("mackrics/frankfurter")
+pak::pkg_install("Mackrics/frankfurter")
 ```
 
 ## Get latest exchange rate between DKK and SEK
@@ -28,8 +28,8 @@ get_historical_exr("dkk", "sek", "2020-01-01", "2022-01-01")
 
 ```r
 #> Install packages with:
-#> pak::pkg_install("mackrics/frankfurter")
-#> pak::pkg_install("mackrics/ricethemes")
+#> pak::pkg_install("Mackrics/frankfurter")
+#> pak::pkg_install("Mackrics/ricethemes")
 #> pak::pkg_install("ggplot2")
 library(frankfurter)
 library(ricethemes)
